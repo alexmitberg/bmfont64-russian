@@ -26,8 +26,7 @@
 
 ## 📸 Скриншоты
 
-| Оригинал |
-<img width="277" height="575" alt="2025-11-16_15-18-34" src="https://github.com/user-attachments/assets/b5fa03a7-1c52-4471-a2e5-d750b00d9cdf" /> <img width="280" height="566" alt="2025-11-16_15-19-55" src="https://github.com/user-attachments/assets/3194dfd4-239d-4074-a3dc-d940cbd03552" /> | Русская версия |
+| Оригинал | <img width="275" height="565" alt="2025-11-16_15-18-34_cr" src="https://github.com/user-attachments/assets/d8a407fd-7076-4105-b1c6-0506e2f0d2d0" /> <img width="275" height="565" alt="2025-11-16_15-19-55_cr" src="https://github.com/user-attachments/assets/bcc9cc55-7fe0-4228-a4b5-e98b9b4e4d63" /> | Русская версия |
 
 ## 🛠 Технические детали
 
